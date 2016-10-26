@@ -1,0 +1,22 @@
+{
+  "name": "check-number",
+  "version": "1.0.0",
+  "description": "return TRUE if the argument is Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshihiro1992/check-number.git"
+  },
+  "keywords": [
+    "num"
+  ],
+  "author": "yoshihiro asada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoshihiro1992/check-number/issues"
+  },
+  "homepage": "https://github.com/yoshihiro1992/check-number#readme"
+}
