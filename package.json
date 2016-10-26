@@ -1,6 +1,6 @@
 {
   "name": "check-number",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "return TRUE if the argument is Number",
   "main": "index.js",
   "scripts": {
